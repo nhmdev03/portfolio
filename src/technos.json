@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Frontend",
+        "technos": [
+            {
+                "title": "react"
+            },
+            {
+                "title": "reactrouter"
+            },
+            {
+                "title": "sass"
+            },
+            {
+                "title": "typescript"
+            },
+            {
+                "title": "bootstrap"
+            },
+            {
+                "title": "jquery"
+            }
+        ]
+    },
+    {
+        "title": "Backend",
+        "technos": [
+            {
+                "title": "nodejs"
+            },
+            {
+                "title": "express"
+            },
+            {
+                "title": "php"
+            },
+            {
+                "title": "symfony"
+            }
+        ]
+    },
+    {
+        "title": "Bases de données",
+        "technos": [
+            {
+                "title": "mongodb"
+            },
+            {
+                "title": "mysql"
+            }
+        ]
+    },
+    {
+        "title": "Outils de développement",
+        "technos": [
+            {
+                "title": "vite.js"
+            },
+            {
+                "title": "github"
+            },
+            {
+                "title": "postman"
+            },
+            {
+                "title": "swagger"
+            },
+            {
+                "title": "docker"
+            }
+        ]
+    },
+    {
+        "title": "Optimisation SEO",
+        "technos": [
+            {
+                "title": "lighthouse"
+            },
+            {
+                "title": "wave"
+            }
+        ]
+    },
+    {
+        "title": "OS",
+        "technos": [
+            {
+                "title": "ubuntu"
+            }
+        ]
+    }
+]
