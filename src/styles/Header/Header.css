@@ -27,6 +27,7 @@
   .header__picture {
     width: 50%;
     margin: 30px auto 0;
+    border-radius: 50%;
   }
 }
 .header__title--lightblue {

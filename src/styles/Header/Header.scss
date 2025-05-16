@@ -1,69 +1,64 @@
-@import '../Tool/variables';
-@import '../Tool/mixins';
-
-.header 
-{
-    @include flexContainer(row, space-between, center, nowrap);
-
-    @media(max-width: 768px) 
-    {
-        flex-wrap: wrap;
-        width: 100%;
-    }
-
-    &__text
-    {
-        font-size: 12px;
-
-        @media(max-width: 768px) 
-        {
-            width: 100%;
-            text-align: center;
-        }
-    }
-
-    &__picture 
-    {
-        width: 150px;
-
-        @media(max-width: 768px) 
-        {
-            width: 50%;
-            margin: 30px auto 0;
-        }
-    }
-
-    &__title 
-    {
-        &--lightblue 
-        {
-            color: $lightblue;
-        }
-
-        @media(max-width: 768px) 
-        {
-            font-size: 20px;
-            text-align: center;
-        }
-    }
-
-    &__subtitle 
-    {
-        color: $coolorange;
-        margin: 15px 0;
-
-        @media(max-width: 768px) 
-        {
-            text-align: center;
-            color: $coolorange;
-        }
-    }
-
-    &__intro 
-    {
-        @media(max-width: 768px) 
-        {
-            text-align: center;
-        }
-    }
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
 }
+
+@media (max-width: 768px) {
+  .header {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+}
+.header__text {
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  .header__text {
+    width: 100%;
+    text-align: center;
+  }
+}
+.header__picture {
+  width: 150px;
+}
+
+@media (max-width: 768px) {
+  .header__picture {
+    width: 50%;
+    margin: 30px auto 0;
+    border-radius: 50%;
+  }
+}
+.header__title--lightblue {
+  color: #36b8ff;
+}
+
+@media (max-width: 768px) {
+  .header__title {
+    font-size: 20px;
+    text-align: center;
+  }
+}
+.header__subtitle {
+  color: #ff9536;
+  margin: 15px 0;
+}
+
+@media (max-width: 768px) {
+  .header__subtitle {
+    text-align: center;
+    color: #ff9536;
+  }
+}
+@media (max-width: 768px) {
+  .header__intro {
+    text-align: center;
+  }
+}
+
+
+/*# sourceMappingURL=Header.scss.map */
