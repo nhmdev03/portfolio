@@ -1,6 +1,35 @@
 [
     {
-        "title": "Frontend",
+        "title": "Langages de programmation",
+        "technos": [
+            {
+                "title": "html5"
+            },
+            {
+                "title": "css"
+            },
+            {
+                "title": "javascript"
+            },
+            {
+                "title": "json"
+            },
+            {
+                "title": "typescript"
+            },
+            {
+                "title": "php"
+            },
+            {
+                "title": "python"
+            },
+            {
+                "title": "markdown"
+            }     
+        ]
+    },
+    {
+        "title": "Frameworks & bibliothèques",
         "technos": [
             {
                 "title": "react"
@@ -9,22 +38,20 @@
                 "title": "reactrouter"
             },
             {
+                "title": "jquery"
+            },
+            {
                 "title": "sass"
             },
             {
-                "title": "typescript"
+                "title": "tailwindcss"
+            },
+            {
+                "title": "daisyui"
             },
             {
                 "title": "bootstrap"
             },
-            {
-                "title": "jquery"
-            }
-        ]
-    },
-    {
-        "title": "Backend",
-        "technos": [
             {
                 "title": "nodedotjs"
             },
@@ -32,10 +59,22 @@
                 "title": "express"
             },
             {
-                "title": "php"
+                "title": "symfony"
             },
             {
-                "title": "symfony"
+                "title": "laravel"
+            },
+            {
+                "title": "pandas"
+            },
+            {
+                "title": "numpy"
+            },
+            {
+                "title": "dotnet"
+            },
+            {
+                "title": "blazor"
             }
         ]
     },
@@ -47,6 +86,44 @@
             },
             {
                 "title": "mysql"
+            },
+            {
+                "title": "redis"
+            },
+            {
+                "title": "sqlite"
+            }
+        ]
+    },
+    {
+        "title": "Gestion de projet & Collab",
+        "technos": [
+            {
+                "title": "uml"
+            },
+            {
+                "title": "trello"
+            },
+            {
+                "title": "notion"
+            },
+            {
+                "title": "zoom"
+            },
+            {
+                "title": "googlemeet"
+            },
+            {
+                "title": "googledrive"
+            },
+            {
+                "title": "git"
+            },
+            {
+                "title": "github"
+            },
+            {
+                "title": "githubpages"
             }
         ]
     },
@@ -54,10 +131,31 @@
         "title": "Outils de développement",
         "technos": [
             {
-                "title": "vite.js"
+                "title": "fontawesome"
             },
             {
-                "title": "github"
+                "title": "googlefonts"
+            },
+            {
+                "title": "googlemaps"
+            },
+            {
+                "title": "openstreetmap"
+            },
+            {
+                "title": "gnubash"
+            },
+            {
+                "title": "eslint"
+            },
+            {
+                "title": "prettier"
+            },
+            {
+                "title": "diagramsdotnet"
+            },
+            {
+                "title": "vite.js"
             },
             {
                 "title": "postman"
@@ -67,6 +165,53 @@
             },
             {
                 "title": "docker"
+            }
+        ]
+    },
+    {
+        "title": "Design",
+        "technos": [
+            {
+                "title": "figma"
+            },
+            {
+                "title": "canva"
+            },
+            {
+                "title": "gimp"
+            },
+            {
+                "title": "inkscape"
+            }
+        ]
+    },
+    {
+        "title": "Navigateurs",
+        "technos": [
+            {
+                "title": "firefoxbrowser"
+            },
+            {
+                "title": "googlechrome"
+            }
+        ]
+    },
+    {
+        "title": "Terminal",
+        "technos": [
+            {
+                "title": "alacritty"
+            }
+        ]
+    },
+    {
+        "title": "Matériel",
+        "technos": [
+            {
+                "title": "msi"
+            },
+            {
+                "title": "msibusiness"
             }
         ]
     },
@@ -85,7 +230,10 @@
         "title": "OS",
         "technos": [
             {
-                "title": "ubuntu"
+                "title": "xubuntu"
+            },
+            {
+                "title": "popos"
             }
         ]
     }
