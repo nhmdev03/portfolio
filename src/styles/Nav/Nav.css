@@ -170,7 +170,7 @@
 .nav__toggle__icons.open .fa-xmark {
   display: block;
 }
-.nav span {
+.nav span:not(.squares__item) {
   display: none;
 }
 

@@ -24,13 +24,13 @@
 }
 .header__picture {
   width: 150px;
+  border-radius: 50%;
 }
 
 @media (max-width: 768px) {
   .header__picture {
     width: 50%;
     margin: 30px auto 0;
-    border-radius: 50%;
   }
 }
 .header__title--lightblue {
