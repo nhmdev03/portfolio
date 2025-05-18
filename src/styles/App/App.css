@@ -47,6 +47,7 @@ a {
     flex-direction: column;
     column-gap: normal;
     row-gap: 200px;
+    flex-wrap: wrap;
   }
 }
 @media (max-width: 768px) {
