@@ -21,7 +21,7 @@
                 "title": "php"
             },
             {
-                "title": "python"
+                "title": "java"
             },
             {
                 "title": "markdown"
@@ -62,19 +62,10 @@
                 "title": "symfony"
             },
             {
-                "title": "laravel"
+                "title": "spring"
             },
             {
-                "title": "pandas"
-            },
-            {
-                "title": "numpy"
-            },
-            {
-                "title": "dotnet"
-            },
-            {
-                "title": "blazor"
+                "title": "hibernate"
             }
         ]
     },
