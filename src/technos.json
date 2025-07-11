@@ -1,231 +1,143 @@
 [
-    {
-        "title": "Langages de programmation",
-        "technos": [
-            {
-                "title": "html5"
-            },
-            {
-                "title": "css"
-            },
-            {
-                "title": "javascript"
-            },
-            {
-                "title": "json"
-            },
-            {
-                "title": "typescript"
-            },
-            {
-                "title": "php"
-            },
-            {
-                "title": "java"
-            },
-            {
-                "title": "markdown"
-            }     
-        ]
-    },
-    {
-        "title": "Frameworks & Bibliothèques",
-        "technos": [
-            {
-                "title": "react"
-            },
-            {
-                "title": "reactrouter"
-            },
-            {
-                "title": "jquery"
-            },
-            {
-                "title": "sass"
-            },
-            {
-                "title": "tailwindcss"
-            },
-            {
-                "title": "daisyui"
-            },
-            {
-                "title": "bootstrap"
-            },
-            {
-                "title": "nodedotjs"
-            },
-            {
-                "title": "express"
-            },
-            {
-                "title": "symfony"
-            },
-            {
-                "title": "spring"
-            },
-            {
-                "title": "hibernate"
-            }
-        ]
-    },
-    {
-        "title": "Bases de données",
-        "technos": [
-            {
-                "title": "mongodb"
-            },
-            {
-                "title": "mysql"
-            },
-            {
-                "title": "redis"
-            },
-            {
-                "title": "sqlite"
-            }
-        ]
-    },
-    {
-        "title": "Gestion de projet & Collab",
-        "technos": [
-            {
-                "title": "uml"
-            },
-            {
-                "title": "trello"
-            },
-            {
-                "title": "notion"
-            },
-            {
-                "title": "zoom"
-            },
-            {
-                "title": "googlemeet"
-            },
-            {
-                "title": "googledrive"
-            },
-            {
-                "title": "git"
-            },
-            {
-                "title": "github"
-            },
-            {
-                "title": "githubpages"
-            }
-        ]
-    },
-    {
-        "title": "Outils de développement",
-        "technos": [
-            {
-                "title": "fontawesome"
-            },
-            {
-                "title": "googlefonts"
-            },
-            {
-                "title": "googlemaps"
-            },
-            {
-                "title": "openstreetmap"
-            },
-            {
-                "title": "gnubash"
-            },
-            {
-                "title": "eslint"
-            },
-            {
-                "title": "prettier"
-            },
-            {
-                "title": "diagramsdotnet"
-            },
-            {
-                "title": "vite.js"
-            },
-            {
-                "title": "postman"
-            },
-            {
-                "title": "swagger"
-            },
-            {
-                "title": "docker"
-            }
-        ]
-    },
-    {
-        "title": "Design",
-        "technos": [
-            {
-                "title": "figma"
-            },
-            {
-                "title": "canva"
-            },
-            {
-                "title": "gimp"
-            },
-            {
-                "title": "inkscape"
-            }
-        ]
-    },
-    {
-        "title": "Navigateurs",
-        "technos": [
-            {
-                "title": "firefoxbrowser"
-            },
-            {
-                "title": "googlechrome"
-            }
-        ]
-    },
-    {
-        "title": "Terminal",
-        "technos": [
-            {
-                "title": "alacritty"
-            }
-        ]
-    },
-    {
-        "title": "Matériel",
-        "technos": [
-            {
-                "title": "msi"
-            },
-            {
-                "title": "msibusiness"
-            }
-        ]
-    },
-    {
-        "title": "Optimisation SEO",
-        "technos": [
-            {
-                "title": "lighthouse"
-            },
-            {
-                "title": "wave"
-            }
-        ]
-    },
-    {
-        "title": "OS",
-        "technos": [
-            {
-                "title": "xubuntu"
-            },
-            {
-                "title": "popos"
-            }
-        ]
-    }
+  {
+    "title": "💬 Langages de programmation",
+    "technos": [
+      { "title": "html5" },
+      { "title": "css" },
+      { "title": "javascript" },
+      { "title": "json" },
+      { "title": "typescript" },
+      { "title": "php" },
+      { "title": "markdown" },
+      { "title": "python" }
+    ]
+  },
+  {
+    "title": "🧩 Frameworks & Bibliothèques",
+    "technos": [
+      { "title": "react" },
+      { "title": "reactrouter" },
+      { "title": "jquery" },
+      { "title": "sass" },
+      { "title": "tailwindcss" },
+      { "title": "daisyui" },
+      { "title": "bootstrap" },
+      { "title": "nodedotjs" },
+      { "title": "nodemon" },
+      { "title": "express" },
+      { "title": "symfony" },
+      { "title": "django" },
+      { "title": "flask" },
+      { "title": "fastapi" },
+      { "title": "starlette" },
+      { "title": "pydantic" },
+      { "title": "typer" },
+      { "title": "scrapy" }
+    ]
+  },
+  {
+    "title": "🧠 IA, Data & Modélisation",
+    "technos": [
+      { "title": "numpy" },
+      { "title": "pandas" },
+      { "title": "polars" },
+      { "title": "jupyter" },
+      { "title": "plotly" },
+      { "title": "dash" },
+      { "title": "streamlit" },
+      { "title": "tensorflow" },
+      { "title": "keras" },
+      { "title": "torch" },
+      { "title": "transformers" },
+      { "title": "langchain" }
+    ]
+  },
+  {
+    "title": "🗃️ Bases de Données",
+    "technos": [
+      { "title": "mysql" },
+      { "title": "mongodb" },
+      { "title": "redis" },
+      { "title": "sqlite" }
+    ]
+  },
+  {
+    "title": "🧑‍🤝‍🧑 Gestion de Projet & Collaboration",
+    "technos": [
+      { "title": "uml" },
+      { "title": "trello" },
+      { "title": "notion" },
+      { "title": "zoom" },
+      { "title": "googlemeet" },
+      { "title": "googledrive" },
+      { "title": "git" },
+      { "title": "github" },
+      { "title": "githubpages" }
+    ]
+  },
+  {
+    "title": "🛠️ Outils de Développement",
+    "technos": [
+      { "title": "fontawesome" },
+      { "title": "googlefonts" },
+      { "title": "googlemaps" },
+      { "title": "openstreetmap" },
+      { "title": "gnubash" },
+      { "title": "eslint" },
+      { "title": "prettier" },
+      { "title": "diagramsdotnet" },
+      { "title": "vite.js" },
+      { "title": "postman" },
+      { "title": "swagger" },
+      { "title": "docker" },
+      { "title": "pytest" },
+      { "title": "poetry" },
+      { "title": "pyscript" },
+      { "title": "selenium" },
+      { "title": "playwrightpython" }
+    ]
+  },
+  {
+    "title": "🎨 Design",
+    "technos": [
+      { "title": "figma" },
+      { "title": "canva" },
+      { "title": "gimp" },
+      { "title": "inkscape" }
+    ]
+  },
+  {
+    "title": "🌐 Navigateurs",
+    "technos": [
+      { "title": "firefoxbrowser" },
+      { "title": "googlechrome" }
+    ]
+  },
+  {
+    "title": "🖲️ Terminal",
+    "technos": [
+      { "title": "alacritty" }
+    ]
+  },
+  {
+    "title": "💻 Matériel",
+    "technos": [
+      { "title": "msi" },
+      { "title": "msibusiness" }
+    ]
+  },
+  {
+    "title": "📈 Optimisation SEO",
+    "technos": [
+      { "title": "lighthouse" },
+      { "title": "wave" }
+    ]
+  },
+  {
+    "title": "🖥️ OS",
+    "technos": [
+      { "title": "xubuntu" },
+      { "title": "popos" }
+    ]
+  }
 ]
