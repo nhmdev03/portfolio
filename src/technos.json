@@ -47,7 +47,7 @@
       { "title": "streamlit" },
       { "title": "tensorflow" },
       { "title": "keras" },
-      { "title": "torch" },
+      { "title": "pytorch" },
       { "title": "transformers" },
       { "title": "langchain" }
     ]
@@ -72,7 +72,8 @@
       { "title": "googledrive" },
       { "title": "git" },
       { "title": "github" },
-      { "title": "githubpages" }
+      { "title": "githubpages" },
+      { "title": "githubactions" }
     ]
   },
   {

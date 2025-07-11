@@ -53,10 +53,31 @@ const Slideshow = () => {
                                         width="50px"
                                         height="50px"
                                         src={
+                                                //wave
                                                 tech.title === 'wave'
                                                 ? 'https://cdn.worldvectorlogo.com/logos/wave-2.svg'
+
+                                                //vite
                                                 : tech.title === 'vite.js'
                                                 ? 'https://www.svgrepo.com/show/374167/vite.svg'
+
+                                                //playwright
+                                                : tech.title === "playwright"
+                                                ? 'https://playwright.dev/python/img/playwright-logo.svg'
+
+                                                //starlette
+                                                : tech.title === "starlette"
+                                                ? 'https://user-images.githubusercontent.com/11155743/56979626-e8f80680-6b82-11e9-9a54-9289d3289e45.png'
+
+                                                //transformers
+                                                : tech.title === "transformers"
+                                                ? 'https://community.intersystems.com/sites/default/files/inline/images/sticker-2048w.png'
+
+                                                //pyscript
+                                                : tech.title === "pyscript"
+                                                ? 'https://avatars.githubusercontent.com/u/100553281?s=280&v=4'
+ 
+                                                //else                                          
                                                 :  `https://cdn.simpleicons.org/${tech.title}`
                                         }                                        
                                         key={i + 1}
