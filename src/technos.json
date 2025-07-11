@@ -37,7 +37,9 @@
   },
   {
     "title": "🧠 IA, Data & Modélisation",
-    "technos": [
+    "technos": 
+    [
+      { "title": "anaconda"},
       { "title": "numpy" },
       { "title": "pandas" },
       { "title": "polars" },
