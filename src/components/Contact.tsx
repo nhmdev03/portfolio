@@ -11,16 +11,10 @@ const Contact: React.FC = () => {
                 <div className="contact__mail">
                     <i className="fa-solid fa-envelope"></i>
                     <a
-                        href="mailto:nhmdev03@gmail.com"
+                        href="mailto:211395231+nhmdev03@users.noreply.github.com"
                         className="contact__mail"
                     >
-                        nhmdev03@gmail.com
-                    </a>
-                </div>
-                <div className="contact__phone">
-                    <i className="fa-solid fa-phone"></i>
-                    <a href="tel:+" className="contact__number">
-                        06 33 10 13 63
+                        211395231+nhmdev03@users.noreply.github.com
                     </a>
                 </div>
             </div>
